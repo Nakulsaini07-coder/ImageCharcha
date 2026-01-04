@@ -1,6 +1,6 @@
 streamlit == 1.52.2
 tensorflow == 2.20.0
-numpy == 1.26.4
+numpy >= 2.1.0
 pandas == 2.2.3
 Pillow == 11.3.0
 joblib == 1.5.2
