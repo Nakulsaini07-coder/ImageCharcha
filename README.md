@@ -17,6 +17,12 @@ The application provides an intuitive web interface powered by Streamlit, making
 
 ---
 
+## 🎥 Demo
+
+![Image Charcha Demo](media/ImageCharchaDemo.gif)
+
+---
+
 ## 📊 About the Dataset
 
 The **Flickr8k dataset** is used for training and evaluating the image captioning system. It consists of **8,091 images**, each with **five captions** describing the content of the image. The dataset provides a diverse set of images with multiple captions per image, making it suitable for training caption generation models.
